@@ -1,0 +1,3 @@
+brew install imagemagick
+convert sift_logo.png -resize 192x192 icon-192.png
+convert sift_logo.png -resize 512x512 icon-512.png

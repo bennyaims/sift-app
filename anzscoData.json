@@ -1,0 +1,75 @@
+[
+  {
+    "industry": "Construction",
+    "professions": [
+      "Carpenter", "Plumber", "Electrician", "Painter", "Bricklayer",
+      "Tiler", "Plasterer", "Concreter", "Roof Plumber", "Glazier",
+      "Labourer", "Site Supervisor", "Estimator", "Other"
+    ]
+  },
+  {
+    "industry": "Mining",
+    "professions": [
+      "Drill Operator", "Shotfirer", "Underground Miner", "Open Cut Miner",
+      "Processing Technician", "Dump Truck Operator", "Excavator Operator",
+      "Production Supervisor", "Maintenance Fitter", "Other"
+    ]
+  },
+  {
+    "industry": "Manufacturing",
+    "professions": [
+      "Machine Operator", "Welder", "Fitter", "Boilermaker", "Sheet Metal Worker",
+      "CNC Machinist", "Production Worker", "Quality Controller", "Maintenance Technician", "Other"
+    ]
+  },
+  {
+    "industry": "Transport & Logistics",
+    "professions": [
+      "Truck Driver", "Forklift Operator", "Bus Driver", "Courier",
+      "Logistics Coordinator", "Warehouse Operator", "Storeperson",
+      "Crane Operator", "Dogger/Rigger", "Other"
+    ]
+  },
+  {
+    "industry": "Healthcare & Social Assistance",
+    "professions": [
+      "Aged Care Worker", "Disability Support Worker", "Enrolled Nurse",
+      "Personal Care Assistant", "Community Support Worker", "Allied Health Assistant", "Other"
+    ]
+  },
+  {
+    "industry": "Agriculture",
+    "professions": [
+      "Farm Hand", "Station Hand", "Machinery Operator", "Livestock Worker",
+      "Horticulture Worker", "Irrigation Technician", "Other"
+    ]
+  },
+  {
+    "industry": "Hospitality",
+    "professions": [
+      "Chef", "Cook", "Kitchen Hand", "Waitstaff", "Bartender",
+      "Barista", "Housekeeper", "Duty Manager", "Other"
+    ]
+  },
+  {
+    "industry": "Civil & Infrastructure",
+    "professions": [
+      "Plant Operator", "Roadworker", "Pipelayer", "Traffic Controller",
+      "Survey Assistant", "Concreter", "Formworker", "Other"
+    ]
+  },
+  {
+    "industry": "Oil & Gas",
+    "professions": [
+      "Rigger", "Scaffolder", "Pipefitter", "Insulator",
+      "Process Technician", "Shutdown Worker", "Other"
+    ]
+  },
+  {
+    "industry": "Electrical & Communications",
+    "professions": [
+      "Electrician", "Data Cabler", "Telecommunications Technician",
+      "Lineworker", "Apprentice Electrician", "Solar Installer", "Other"
+    ]
+  }
+]
